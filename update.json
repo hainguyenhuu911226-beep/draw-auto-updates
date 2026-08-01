@@ -1,9 +1,9 @@
 {
-    "version":  "4.1.4",
-    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.4/DrawAuto_Setup.exe",
-    "sha256":  "F9861B6F70835991CC842912E66BDE8D71F649CC093C92D33F2660FE92930AD6",
-    "size":  75974144,
-    "publishedUtc":  "2026-08-01T08:46:20.8658984Z",
-    "notes":  "Hoan thien giao dien ACTIVE .NET, cho phep xem va sao chep Disk Driver, giu nguyen cach cap key.",
-    "signature":  "XIliBANUE6I9DtoH5z7XAJnxgXidNkVJwV1Y93DsrPtV80pAla2PoGZAYUq4cURhZptjY0iGTWBP+f491BG3CAgNvDldze0oVpFAWs3lurTcm/2djsv06yyNkrO8H3dcFvUHO5GMqPN+mcBCiprwrsN+TSQCHN8M7LGBMGfwl+jSTLsT2R9S9iXhngX8pwurYzPIOruXAbjow/1nfKQEXvqq4NQoM4N80UFNiAXMl+VyF2qCG6YizMffp2fd+IV+NM+6FY56FR0LegQRMAU79Q6wJlGdK+Ppzw0Ht6UAhgmwII3rad6/RzaAYHyataxeelEb/ZcvV3VLFdHtNUSALa8WVIRcq8x53wgqLZYfhcXWAwiuFTtdyIs+D7k2o7QB2c4dxG8kWuV+t6HblPQ4DKC/YB6fR279Z1+L/59wVy/DAFSdyPuj9JTdnAbUGyao+6K6rectKJFL2Wb9x1aS2ezNCe5J/sGEwjSw36ht6/3jrcQIUFy/s/GfvvVi7Noq"
+    "version":  "4.1.7",
+    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.7/DrawAuto_Setup.exe",
+    "sha256":  "111847DF5A292361E176251A4DE6391B45B76FD8FE1B86C545466491F251C25B",
+    "size":  75978752,
+    "publishedUtc":  "2026-08-01T09:51:50.4534266Z",
+    "notes":  "Khong chen fitting dau cuoi trung vao vi tri da co block; ap dung PPR, uPVC, Steel, Duct va Cable Tray.",
+    "signature":  "HxCrrEEaNvwebvIsOlHwNQgt6I/wTBD01Jblqb6LOO7lgzs/KWt0mZIX0fXdKJlNSlMl2EjH/rQleUpa61Ib85AVL6BwYQQJ+ZcYVScX0eWmFAl785KkIPh0H2bEhL9DyoeI43oCfwo7lbaho7bR5wZoahGZkJO2HfvN2IdcBtiIKHOeC3ZiRga3KCdrvK15iVvG3kFhTs2QLIaqNECA1NfLrUc66ARw6JBSCfTBjKWWQN+RRAEl27vC/yz4K5KYtZgzNCRSrNEocplaPmsqQBqqp4ChR7RI6RI+/TgK/PkdQqTETfUI/8Jvn1AtkZ6GKLs6MG9exnXQS5MJlGk73gJ/a4f29eHgk33cXjCC3QrDYDrfHYllhbPrn3FcPee2aRZjvM0jYLKBkzZuQQWVe2YX1w2lbRlRSm43w1vNooouRG7xp59REaeTLF+tk1YtjiQqH9ikAw3dswt4Oa7CiJQIPlarTA89lNX0iX7UFeT3Fw2xVID5Kp6zij8wQFNI"
 }
