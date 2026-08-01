@@ -1,9 +1,9 @@
 {
-    "version":  "4.1.2",
-    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.2/DrawAuto_Setup.exe",
-    "sha256":  "F27D20E7EB7A29D215DF2FC1A361F5661AD8EFBACCA3836FBF312E08CEB8C240",
-    "size":  75970560,
-    "publishedUtc":  "2026-08-01T08:07:26.4118748Z",
-    "notes":  "Chuyen kiem tra license sang bo nap .NET, tu khoi phuc Registry active va bao ve du lieu kich hoat.",
-    "signature":  "Ps60p/+6dEJXb7kSwFtLMD20zLKheNeYMmM099VUm1S4IMWBjDW8OevW1LOLWhmbNS1beOKEQMvdbfuyN09ynvIs2oarYL8d6sg7ZRac4aJZwJGzW3OpO/RJZkqlxtPm9bvwHk4iTkfM9WTiNGLuJvM28Sc7YPOdFXjESySAs4ocggWonRMK1xCp19QMlXsD3OkzXDj9BBVTXAoEaGHOgtTu6aHtPN8JCJgSooACXVU8UXylYApkGurrOh86szaUd8sR4lDTEr0VSF6IWGQRXDXiC9sHPLrdApcySjMKsl1Vpuh77cOv+7oOYkkv+cSZ0+sY7X5HuY3A4NL3tm6tnIIiI6gj7CvUKTRhTfdtKzVW5K6jS0nkFIp6t1WODxsVXuR6CTfSqvMazYenGkJ2Yj+ghcvYx22quVI/DAITwGOB1BkSlD7zvkmBZaadtS4QRrmkZbOiJtbE7/IkK5po0cXQOc1RMPq+da9QVnFpvevf7tQQzbu6AZ0Vw52YDFjk"
+    "version":  "4.1.3",
+    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.3/DrawAuto_Setup.exe",
+    "sha256":  "2FE20E7E4628EAFE615C7E580818A0FB2383CE6AA32A5CAD94823B346A72C8BA",
+    "size":  75973120,
+    "publishedUtc":  "2026-08-01T08:27:08.4214189Z",
+    "notes":  "Giao dien ACTIVE moi trong bo nap .NET, giu nguyen cach cap key va ho tro AutoCAD 2018-2026.",
+    "signature":  "dRE9god0FcebXA4vID6cWW6EfYyesrtU+BHkVaPfbeK9sPue9EJTyEV+qsMI2mRMvXf49ulpTxsLBzDetEEM3kllmZb9138WHTl5TfqLQSyugD9INBYaKEJj3S4+v5BsWdG/QFqCZvGXE34F+n/bXYq3mN9uTot25/hyOw7YhcurmPnJ3qJKjigk0o4lUYoHhn5e2eV/HhdB9/X6BPbTYSA4OPcJ0X1d9JxmhyJ16FhWu32Wpzzhj0HrpxFFVA5Ep1irAwg0Me1gLwZQNEI56jSesSKwPwYhqk5JS4XcIQ9Ta1SokU9EpZRGqa43nSOAtKuhzGaVQP4HC130xfrE5vQREC3h8Uv21/qn8q0mbZgKW+ipan9Iuk9aoeqTNOMopb2pcr4HyaAP4sT8sWY45dbt2YVJq22YkkN7QZbT6zt3+bq1KxLTfLh/wxSfxq1gOlUmXci18RPZBhQrcf3xhDXVBTKQjYhEJyhItXo0aSsNFj3FXeC94sN0OHoLatop"
 }
