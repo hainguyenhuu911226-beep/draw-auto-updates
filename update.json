@@ -1,9 +1,9 @@
 {
-    "version":  "4.1.3",
-    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.3/DrawAuto_Setup.exe",
-    "sha256":  "2FE20E7E4628EAFE615C7E580818A0FB2383CE6AA32A5CAD94823B346A72C8BA",
-    "size":  75973120,
-    "publishedUtc":  "2026-08-01T08:27:08.4214189Z",
-    "notes":  "Giao dien ACTIVE moi trong bo nap .NET, giu nguyen cach cap key va ho tro AutoCAD 2018-2026.",
-    "signature":  "dRE9god0FcebXA4vID6cWW6EfYyesrtU+BHkVaPfbeK9sPue9EJTyEV+qsMI2mRMvXf49ulpTxsLBzDetEEM3kllmZb9138WHTl5TfqLQSyugD9INBYaKEJj3S4+v5BsWdG/QFqCZvGXE34F+n/bXYq3mN9uTot25/hyOw7YhcurmPnJ3qJKjigk0o4lUYoHhn5e2eV/HhdB9/X6BPbTYSA4OPcJ0X1d9JxmhyJ16FhWu32Wpzzhj0HrpxFFVA5Ep1irAwg0Me1gLwZQNEI56jSesSKwPwYhqk5JS4XcIQ9Ta1SokU9EpZRGqa43nSOAtKuhzGaVQP4HC130xfrE5vQREC3h8Uv21/qn8q0mbZgKW+ipan9Iuk9aoeqTNOMopb2pcr4HyaAP4sT8sWY45dbt2YVJq22YkkN7QZbT6zt3+bq1KxLTfLh/wxSfxq1gOlUmXci18RPZBhQrcf3xhDXVBTKQjYhEJyhItXo0aSsNFj3FXeC94sN0OHoLatop"
+    "version":  "4.1.4",
+    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.4/DrawAuto_Setup.exe",
+    "sha256":  "F9861B6F70835991CC842912E66BDE8D71F649CC093C92D33F2660FE92930AD6",
+    "size":  75974144,
+    "publishedUtc":  "2026-08-01T08:46:20.8658984Z",
+    "notes":  "Hoan thien giao dien ACTIVE .NET, cho phep xem va sao chep Disk Driver, giu nguyen cach cap key.",
+    "signature":  "XIliBANUE6I9DtoH5z7XAJnxgXidNkVJwV1Y93DsrPtV80pAla2PoGZAYUq4cURhZptjY0iGTWBP+f491BG3CAgNvDldze0oVpFAWs3lurTcm/2djsv06yyNkrO8H3dcFvUHO5GMqPN+mcBCiprwrsN+TSQCHN8M7LGBMGfwl+jSTLsT2R9S9iXhngX8pwurYzPIOruXAbjow/1nfKQEXvqq4NQoM4N80UFNiAXMl+VyF2qCG6YizMffp2fd+IV+NM+6FY56FR0LegQRMAU79Q6wJlGdK+Ppzw0Ht6UAhgmwII3rad6/RzaAYHyataxeelEb/ZcvV3VLFdHtNUSALa8WVIRcq8x53wgqLZYfhcXWAwiuFTtdyIs+D7k2o7QB2c4dxG8kWuV+t6HblPQ4DKC/YB6fR279Z1+L/59wVy/DAFSdyPuj9JTdnAbUGyao+6K6rectKJFL2Wb9x1aS2ezNCe5J/sGEwjSw36ht6/3jrcQIUFy/s/GfvvVi7Noq"
 }
