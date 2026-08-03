@@ -1,9 +1,9 @@
 {
-    "version":  "4.1.7",
-    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.7/DrawAuto_Setup.exe",
-    "sha256":  "111847DF5A292361E176251A4DE6391B45B76FD8FE1B86C545466491F251C25B",
-    "size":  75978752,
-    "publishedUtc":  "2026-08-01T09:51:50.4534266Z",
-    "notes":  "Khong chen fitting dau cuoi trung vao vi tri da co block; ap dung PPR, uPVC, Steel, Duct va Cable Tray.",
-    "signature":  "HxCrrEEaNvwebvIsOlHwNQgt6I/wTBD01Jblqb6LOO7lgzs/KWt0mZIX0fXdKJlNSlMl2EjH/rQleUpa61Ib85AVL6BwYQQJ+ZcYVScX0eWmFAl785KkIPh0H2bEhL9DyoeI43oCfwo7lbaho7bR5wZoahGZkJO2HfvN2IdcBtiIKHOeC3ZiRga3KCdrvK15iVvG3kFhTs2QLIaqNECA1NfLrUc66ARw6JBSCfTBjKWWQN+RRAEl27vC/yz4K5KYtZgzNCRSrNEocplaPmsqQBqqp4ChR7RI6RI+/TgK/PkdQqTETfUI/8Jvn1AtkZ6GKLs6MG9exnXQS5MJlGk73gJ/a4f29eHgk33cXjCC3QrDYDrfHYllhbPrn3FcPee2aRZjvM0jYLKBkzZuQQWVe2YX1w2lbRlRSm43w1vNooouRG7xp59REaeTLF+tk1YtjiQqH9ikAw3dswt4Oa7CiJQIPlarTA89lNX0iX7UFeT3Fw2xVID5Kp6zij8wQFNI"
+    "version":  "4.1.8",
+    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.8/DrawAuto_Setup.exe",
+    "sha256":  "96814B4DAE24648B78B656877EC3B8D5ADF6032F693524915983B04EA3F200F3",
+    "size":  75987968,
+    "publishedUtc":  "2026-08-03T02:29:07.0772703Z",
+    "notes":  "Cho phep doi toan bo lenh tat bang chuot phai; ten moi go tai command se mo dung UserForm/chuc nang va ten cu duoc tra lai cho lenh nguoi dung.",
+    "signature":  "mTZJDzet9kT2C/Owo4aP4wDWPmo7qKXHdRX8AXCa1Z72mgOt6fpPAfdqoe7cR4ufvWvILikoLbyuohDVx9ZGR+gcnKsyKER9wbV3T/q3gP9TV8Jfj0/56RJ63tNKUFrBtWOxIqgKWmQUUwfZOnxCfpPjhSgPkSURlrKNDP1hMkDrr/cqQP+Mvokom7/oBpF8FkDIGN0/h9PDSzK5RIlzm8K4RAffNmpk6UHucdTXKEsMbs4vvedMfvW4jyCZMfHGEwZZ97+JS0EwdugFvbKRlBYP0B9QSKdkKlKAo0qtAk/wMeCYKqqvU+KvNb/rS1HT6712X6I0Hiprv4+k4mdskzdiHkLS4Aka8iYR2ycAeLEBQ3lvXbLwdp2gCPT807F7hBeMKckfYMaYT00Nh/KHx4eVsZjSHnjm8XWGo/9pQQcSU6xikKutEf34Ghq4NrqkALs3fSBDkG+WKRV5jn57o8R3CA6AQtDHJAqev664eXqX2oDT7ctHi7v+OTdR115x"
 }
