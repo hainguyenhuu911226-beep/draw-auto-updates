@@ -1,9 +1,9 @@
 {
     "version":  "4.1.8",
     "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/v4.1.8/DrawAuto_Setup.exe",
-    "sha256":  "96814B4DAE24648B78B656877EC3B8D5ADF6032F693524915983B04EA3F200F3",
-    "size":  75987968,
-    "publishedUtc":  "2026-08-03T02:29:07.0772703Z",
-    "notes":  "Cho phep doi toan bo lenh tat bang chuot phai; ten moi go tai command se mo dung UserForm/chuc nang va ten cu duoc tra lai cho lenh nguoi dung.",
-    "signature":  "mTZJDzet9kT2C/Owo4aP4wDWPmo7qKXHdRX8AXCa1Z72mgOt6fpPAfdqoe7cR4ufvWvILikoLbyuohDVx9ZGR+gcnKsyKER9wbV3T/q3gP9TV8Jfj0/56RJ63tNKUFrBtWOxIqgKWmQUUwfZOnxCfpPjhSgPkSURlrKNDP1hMkDrr/cqQP+Mvokom7/oBpF8FkDIGN0/h9PDSzK5RIlzm8K4RAffNmpk6UHucdTXKEsMbs4vvedMfvW4jyCZMfHGEwZZ97+JS0EwdugFvbKRlBYP0B9QSKdkKlKAo0qtAk/wMeCYKqqvU+KvNb/rS1HT6712X6I0Hiprv4+k4mdskzdiHkLS4Aka8iYR2ycAeLEBQ3lvXbLwdp2gCPT807F7hBeMKckfYMaYT00Nh/KHx4eVsZjSHnjm8XWGo/9pQQcSU6xikKutEf34Ghq4NrqkALs3fSBDkG+WKRV5jn57o8R3CA6AQtDHJAqev664eXqX2oDT7ctHi7v+OTdR115x"
+    "sha256":  "EEDA94CA07E509A97218C7580CF64E031814D87D35ECFAB91D229B08B9C30E10",
+    "size":  75988480,
+    "publishedUtc":  "2026-08-03T03:16:05.8701786Z",
+    "notes":  "Cho phep doi toan bo lenh tat bang chuot phai; ten moi go tai command se mo dung UserForm/chuc nang va ten cu duoc tra lai cho lenh nguoi dung; sua PVC va Steel khong chen fitting trung tai endpoint da co block.",
+    "signature":  "RYGR62qpXOB4i7lMIowasdcVprAZUK4GqEAJOAEVsyliRaaEttv9oHTJ/DssHaUVSEJjBm/c7PiUtDQ+SY0x0pckRD0IteQPT9ycL7Uo2SVHj1kI31OOTiWGhsaAudzoyOkCx6sFR1FiynTEoEK8LYajGFyGQwpGYl7UvWMGGNgCzqLp2z1P8bnRq/H24QvlH2NvyePbl2h/gZVHV9UVtuC5zICPW0iK5N4qEFKOEsHYSw9zCIqpUQ8J4O497/ugUgj+etaBdJehm6y38VEu+oixvWCc+ScBX2Qqhnk2ORCZ0lTY/FSf6HuN21/4uqib1jgCl1Ecs4HGVXEml7xF0EMQz/clh/LwNmjB0nxc25uJTTqMpUH5GE88XnLSFt//JiFsX8fecx0BukXp1Oxb1+9rcUyL9ob1tkG2NjkA1Zk5JZQApjyneF5dTW/KL1cNZRldDwMHcxzh1sc+2iaLbE88loA5pVMzZ8yn4CUudV1iwn4844sew9t0HgNrIkNo"
 }
