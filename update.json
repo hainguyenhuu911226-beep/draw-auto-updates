@@ -1,9 +1,9 @@
 {
-    "version":  "4.2.7",
-    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/4.2.7/DrawAuto_Setup.exe",
-    "sha256":  "2DC603D982E577FDD66EEA378ED880E36EB46EF8C717B3487BE2451E2F212C6F",
-    "size":  88131072,
-    "publishedUtc":  "2026-09-15T15:49:22.5041043Z",
-    "notes":  "Dang nhap online, kiem tra han su dung, mot tai khoan mot phien, an Active cu, bo sung PVC 3D D114/90.",
-    "signature":  "TNIRy5bkjcE5XdbLKsr6WC8KE8+lkEJqW4h3JZ5hdsmQ5AkfXZCjbVMLdfDC5Ws0A0IUKSsrvQedF8TlC4iHXRxAVbvXOELlxZDlNP41X3NbvHe6wAIfD7EVJYFWhJ+VJmkVLTHLOv9gIoU1a59/o/XTeTh0xYS+MNNnbN5ecHyBtEBxTqqSexPqHGxApFsjEOdg8V7sCehyDKJTaVBgWjcN5r1HAGaMQXeoAiv4yxId00V5Z6/RETZCE1DFnGcHJblc0bgU5FvnPpORJuQSq7z0k5pUruaF1GrMPDjDEBxqw1vczDCXohk+940W8WalIVIoYw47v7krc9Zf62+94pdb4u4Xw2p8S4Ll/ugVu3CVydEjwAgeWwQXINFOOnK7yQA4SpGscPwDhKqOFbcXgn2oTSVAWiWujtqSmWDhvYkpGT3g2ZIeN8k2NulJviy6wI57pgGmMgZDwsCHFSZ66O69ASODWOMx0EAvsVIMf4eb9JJr8GGsEUojf1zQvDCT"
+    "version":  "4.3.7",
+    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/4.3.7/DrawAuto_Setup.exe",
+    "sha256":  "0BF905BDED0234B2F16B367A71E26027E1AC13B68C9C683A60D4E86A70D998C9",
+    "size":  43043328,
+    "publishedUtc":  "2026-10-08T08:09:56.8022195Z",
+    "notes":  "Giam dung luong bo cai bang nen DVB truoc ma hoa; bo nap doc goi cu va goi nen, giu nguyen VBA, tai khoan va du lieu nguoi dung khi cap nhat.",
+    "signature":  "WJ5SWF3lfhH0lAC23V1eifSBv3m8WKIQi4cVrgXikP+iN7erQN6JG36oGEsCwgXfSrAfDgo/nzRifxQwshYf2LwfsM/MQqTKwHkdoYPZ7Naflj4EAWzzFITGow9UzQfnjj5HiuxU/qUreJwDwFNEunRRUi6iveiZWayzIFYL0pHTi7oKt2KBhwc77LprdPoN2HghX7zAc+HLG8vEjHKCwjQxCkGjskby6ZdizqIGBzvEzWIX54JX6ljInn8G1BL+7wJIHSMj1BlWrqu/DCzDPYSwyrsP18rJrL3VmJ5z4In7Uw/ceV/y93L++ZBfBl7oX4d5p/Xsx35fCwTuasvV74ET4esz2XS0V9UIYxyPVMe02erc9/9hu+M+SzrebhaKHDU3wleQwP3ZDe67dxeumW9ivT6HdI8DlNRMSAA2vyrK4sxQK2OWJ42OeGrfXLOynblwaYGD5zZNTOv/5ZSJignGO7in9+7Og2m9OJDeo4CxszqH/PLEFGb1fw3nP8Yg"
 }
