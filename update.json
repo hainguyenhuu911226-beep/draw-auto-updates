@@ -1,9 +1,9 @@
 {
-    "version":  "4.3.7",
-    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/4.3.7/DrawAuto_Setup.exe",
-    "sha256":  "0BF905BDED0234B2F16B367A71E26027E1AC13B68C9C683A60D4E86A70D998C9",
-    "size":  43043328,
-    "publishedUtc":  "2026-10-08T08:09:56.8022195Z",
+    "version":  "4.4.11",
+    "installerUrl":  "https://github.com/hainguyenhuu911226-beep/draw-auto-updates/releases/download/4.4.11/DrawAuto_Setup.exe",
+    "sha256":  "2E3DDE15EC700F0AD29C7C9A7919937AB39E6A1D791D8CFAC873488162B55D16",
+    "size":  44718080,
+    "publishedUtc":  "2026-10-23T08:50:04.4746123Z",
     "notes":  "Giam dung luong bo cai bang nen DVB truoc ma hoa; bo nap doc goi cu va goi nen, giu nguyen VBA, tai khoan va du lieu nguoi dung khi cap nhat.",
-    "signature":  "WJ5SWF3lfhH0lAC23V1eifSBv3m8WKIQi4cVrgXikP+iN7erQN6JG36oGEsCwgXfSrAfDgo/nzRifxQwshYf2LwfsM/MQqTKwHkdoYPZ7Naflj4EAWzzFITGow9UzQfnjj5HiuxU/qUreJwDwFNEunRRUi6iveiZWayzIFYL0pHTi7oKt2KBhwc77LprdPoN2HghX7zAc+HLG8vEjHKCwjQxCkGjskby6ZdizqIGBzvEzWIX54JX6ljInn8G1BL+7wJIHSMj1BlWrqu/DCzDPYSwyrsP18rJrL3VmJ5z4In7Uw/ceV/y93L++ZBfBl7oX4d5p/Xsx35fCwTuasvV74ET4esz2XS0V9UIYxyPVMe02erc9/9hu+M+SzrebhaKHDU3wleQwP3ZDe67dxeumW9ivT6HdI8DlNRMSAA2vyrK4sxQK2OWJ42OeGrfXLOynblwaYGD5zZNTOv/5ZSJignGO7in9+7Og2m9OJDeo4CxszqH/PLEFGb1fw3nP8Yg"
+    "signature":  "KQpwi4fSqbx42lP3gbapB9hK4kF6eh+5vUJlxQok9+hC/oJ46yVFKyoC2MTLTZfgohAxbTz+66wW7zwjFtFQnk+kHKpy8cn8YDTxEACNIrzvCgLzyWxD/NcY4Q0ZX2rRPILII4hMTdpO47Tcl8ZJOsXzVOjYlJqdlYyiEB2ZHHilaIzwvwxIX0bH0JPweshW78Xyr6/rwHYsV2lajdBM1Ge5g1RfMW26fJMv5XuAmCBo80ZGN0hxOOIcBuzb+dTmoThPku8c2P+E1ve9l/t0zyVyCUwKKIktYKE4hvBMhQsu4nOe9/G3OevYyznBd4VmrZkQH249tLVc2N+WHPNLBomqrpSyBTLpp9X2V4mshjtSCX4lFNwEtE+91GQ+nuuGgNpjQqwa+MQCRYDsWkOp0owUC10IwubgHs5LrYuhVOkb6XOhuqMP+d7JO4EUL9jGLk7a0ZDPl6ZW3iwSjsVLLM1gVbUHsCd3ZOrFqigO1SxAEcJTteAF1G9zNKpPNvcO"
 }
